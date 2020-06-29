@@ -417,9 +417,9 @@
 		letter-spacing: 3px;
 	}
 	.left-sidebar .content-wrapper .content .managed-by {
-		font-size: 10px;
-		color: #bc9e74;
-		opacity: 0.6;
+		font-size: 15px;
+	    color: #BC9E74;
+	    font-weight: 600;
 	}
 	.left-sidebar .content-wrapper .content .link-wrapper .emg-link {
 	
