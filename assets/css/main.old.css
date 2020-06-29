@@ -833,7 +833,7 @@ body{
 		height: 355px;
 	}
 	.cover-skylounge .slider .about .box-layout-content .content-box .description {
-		height: 260px;
+		height: 210px;
 	}
 }
 
@@ -3903,4 +3903,7 @@ input::placeholder {
 		padding-bottom: 30px;
 		max-width: 600px;
 		height: 366px;
+	}
+	.cover-skylounge .slider .about .box-layout-content .content-box .description{
+		overflow: auto;
 	}
